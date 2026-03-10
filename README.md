@@ -1,5 +1,5 @@
-✨ Primeiros Passos em Linguagem C - PIF ✨
-    Este repositório contém as soluções da primeira aula prática da disciplina de Programação Imperativa e Funcional (PIF). O foco destes exercícios foi praticar a sintaxe básica da linguagem C, manipulação de variáveis e estruturas de decisão.
+✨ Primeiros Passos em Linguagem C - PIF ✨ <br>
+Este repositório contém as soluções da primeira aula prática da disciplina de Programação Imperativa e Funcional (PIF). O foco destes exercícios foi praticar a sintaxe básica da linguagem C, manipulação de variáveis e estruturas de decisão.
 
 🚀 O que foi praticado?
 - Lógica C
