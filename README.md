@@ -11,7 +11,7 @@ Este repositório contém as soluções da primeira aula prática da disciplina 
 📋 Questões:
 ✅ feita! | 🤷‍♀️ dúvida | ❌ não feita (ainda)
 
-✏️ Operadores matemáticos: Aquecimento
+ ✏️ Operadores matemáticos: Aquecimento
 - questão 1 ✅
 - questão 2 ✅
 ✏️ Operadores matemáticos: Com Scanf
@@ -20,36 +20,36 @@ Este repositório contém as soluções da primeira aula prática da disciplina 
 - questão 5 ✅
 - questão 6: conversor ✅
 - questão 7 ✅
-✏️ Atalhos Ninja
+ ✏️ Atalhos Ninja
 - questão 8: o acumulador ✅
 - questão 9: level up ✅
 - questão 10: a armadilha🤷‍♀️
-✏️ Operadores matemáticos: V ou F?
+ ✏️ Operadores matemáticos: V ou F?
 - questão 11 (&&) ✅
 - questão 12 (||) ✅
 - questão 13 (!) ✅
 - questão 14: pode dirigir? ✅
 - questão 15: desafio mental 🤷‍♀️
-✏️ Tomando decisões
+ ✏️ Tomando decisões
 - par ou ímpar? ✅
 - o maior de três ❌
 - classificador de idade ✅
 - ano bissexto ❌
-✏️ Repetições inteligentes: Loop While
+ ✏️ Repetições inteligentes: Loop While
 - contagem regressiva ❌
 - soma infinita ❌
 - senha bloqueada ❌
 - o grande jogo ❌
-✏️ Controle total: Loop For
+ ✏️ Controle total: Loop For
 - tabuada ❌
 - contagem regressiva ❌
 - soma de pares ❌
 - desenhando quadrados ❌
-✏️ Escolhas múltiplas: Switch Case
+ ✏️ Escolhas múltiplas: Switch Case
 - o pedido ❌
 - calculadora ❌
 - dias do mês ❌
-🏆 O GRANDE DESAFIO FINAL
+ 🏆 O GRANDE DESAFIO FINAL
 - IMC 2.0 ❌
 - caixa eletrônico ❌
 - adivinhação hardcore ❌
